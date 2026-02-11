@@ -3,7 +3,8 @@ By Adam Aliyev
 
 Video overview: https://www.youtube.com/watch?v=JjCgwf1dbJk
 
-Scope
+##Scope
+
 The ABB Mobile Bank database contains all the assets necessary to facilitate the process of tracking users progress and providing transactions on users work. Therefore, the database's scope include:
 
 Users, including basic users information.
