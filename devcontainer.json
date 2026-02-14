@@ -1,0 +1,9 @@
+{
+  "name": "Hospital Database",
+
+  "image": "ghcr.io/cs50/codespace:latest",
+
+  "forwardPorts": [8080],
+
+  "postStartCommand": "sudo service apache2 start"
+}
